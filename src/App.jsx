@@ -51,7 +51,7 @@ function App() {
             onClick={copyPasswordToClipboard}
             className='outline-none bg-black text-white px-3 py-2 shrink-0'>Copy</button>
         </div>
-        <div className='flex text-sm gap-x-2'>
+        <div className='flex text-sm gap-x-2 text-center'>
           <div className='flex items-center gap-x-1'>
             <input 
             type="range"
